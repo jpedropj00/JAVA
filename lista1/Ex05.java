@@ -1,3 +1,4 @@
+package lista1;
 public class Ex05 {
     public static void main(String[] args) {
         //5. Contagem de primos. Utilizando for (com um for interno para testar os divisores) e if, conte

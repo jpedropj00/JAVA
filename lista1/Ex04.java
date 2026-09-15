@@ -1,3 +1,4 @@
+package lista1;
 public class Ex04 {
     public static void main(String[] args) {
         //4. FizzBuzz. De 1 a 50, exiba "Fizz" se o número for múltiplo de 3, "Buzz" se for múltiplo de 5,

@@ -1,3 +1,5 @@
+package lista1;
+
 public class Ex03 {
     public static void main(String[] args) {
         //3. Soma dos ímpares. Utilizando while e if, some todos os números ímpares entre 1 e 100 e exiba o
